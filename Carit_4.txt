@@ -1,7 +1,0 @@
-Index.css
-body {
-  background-color: lightblue;
-}
-a{
-background-color:green;
-}
